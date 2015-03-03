@@ -56,7 +56,7 @@ section{
 	top: 0; left: 0;
 	height: 30px;
 	width: 100%;
-	max-width: 960px;
+	min-width: 960px;
 	background-color: #ffc627;
 	border-bottom: 1px solid #333e48;
 	z-index: 200;
